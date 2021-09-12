@@ -1,0 +1,8 @@
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Lejarza"
+    given-names: "Fernando"
+   - family-names: "Baldea"
+    given-names: "Michael"
+    
+title: "DySMHO: Data-Driven Discovery of Governing Equations for Dynamical Systems via Moving Horizon Optimization"
