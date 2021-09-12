@@ -1,0 +1,16 @@
+# YAML 1.2
+---
+authors: 
+  -
+    family-names: Lejarza
+    given-names: Fernando
+    name-particle: 
+    name-suffix: 
+  -
+    family-names: Baldea
+    given-names: Michael
+cff-version: "1.1.0"
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/Baldea-Group/DySMHO"
+title: "DySMHO: Data-Driven Discovery of Governing Equations for Dynamical Systems via Moving Horizon Optimization"
+...
