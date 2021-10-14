@@ -1,5 +1,7 @@
 # DySMHO
 
+Data-driven discovery of governing equations for dynamical systems via moving horizon optimization. A description of the methods used, main properties, and numerical case studies can be found [here](https://arxiv.org/abs/2108.00069).
+
 
 ## System requirements 
 
@@ -16,7 +18,9 @@
 	- See [here](https://www.markdownguide.org/basic-syntax/) for configuration instructions 
 
 # Hardware requirements 
-DySMHO requires only a standard computer with enough RAM to support the in-memory operations.
+DySMHO requires only a standard computer with enough RAM to support the in-memory operations. The code has been tested on the following systems:
+- macOS Big Sur (version 11.6) 
+- Windows 10 Enterprise (version 1909) 
 
 	
 ## Installation guide 
