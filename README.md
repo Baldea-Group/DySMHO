@@ -32,6 +32,6 @@ git clone https://github.com/Baldea-Group/DySMHO
 
 ## Demo 
 
-Demonstrations for different dynamical systems are included in the /DySMHO/notebook directory. 
+Demonstrations for different dynamical systems are included in the [DySMHO/notebook](https://github.com/Baldea-Group/DySMHO/tree/main/DySMHO/notebook) directory. 
 
 ## Instructions for use 
