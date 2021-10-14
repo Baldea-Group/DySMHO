@@ -5,7 +5,7 @@ Data-driven discovery of governing equations for dynamical systems via moving ho
 
 ## System requirements 
 
-# Software requirements and versions tested
+### Software requirements and versions tested
 - [Python](https://www.python.org/) 3.7.3
 - [Pyomo](http://www.pyomo.org/) 6.1.2
 - [numpy](https://numpy.org/) 1.19.5
@@ -17,7 +17,7 @@ Data-driven discovery of governing equations for dynamical systems via moving ho
 	- [CONOPT](http://www.conopt.com/) Nonlinear solver (license is required for large instances)
 	- See [here](https://www.markdownguide.org/basic-syntax/) for configuration instructions 
 
-# Hardware requirements 
+### Hardware requirements 
 DySMHO requires only a standard computer with enough RAM to support the in-memory operations. The code has been tested on the following systems:
 - macOS Big Sur (version 11.6) 
 - Windows 10 Enterprise (version 1909) 
