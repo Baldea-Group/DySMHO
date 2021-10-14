@@ -13,7 +13,7 @@ Data-driven discovery of governing equations for dynamical systems via moving ho
 - [scikit-learn](https://scikit-learn.org/) 0.24.2
 - [statsmodels](https://www.statsmodels.org/stable/index.html) 0.12.2
 - [matplotlib](https://matplotlib.org/) 3.4.3
-- [GAMS](https://www.gams.com/) (https://www.gams.com/)
+- [GAMS](https://www.gams.com/)
 	- [CONOPT](http://www.conopt.com/) Nonlinear solver (license is required for large instances)
 	- See [here](https://www.markdownguide.org/basic-syntax/) for configuration instructions 
 
