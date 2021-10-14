@@ -5,8 +5,8 @@ Data-driven discovery of governing equations for dynamical systems via moving ho
 
 ## System requirements 
 
-# Software requirements 
-- Python 3.7.3
+# Software requirements and versions tested
+- [Python](https://www.python.org/) 3.7.3
 - [Pyomo](http://www.pyomo.org/) 6.1.2
 - [numpy](https://numpy.org/) 1.19.5
 - [scipy](https://www.scipy.org/) 1.6.2
