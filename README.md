@@ -34,4 +34,6 @@ git clone https://github.com/Baldea-Group/DySMHO
 
 Detailed demonstrations for different dynamical systems are included in the [DySMHO/notebook](https://github.com/Baldea-Group/DySMHO/tree/main/DySMHO/notebook) directory. The directory also includes scripts used to compare the perfromance of DySMHO agains prior works in the literature. 
 
+All the data generating scrips for the numerical case studies can be found in the [data directory](https://github.com/Baldea-Group/DySMHO/tree/main/DySMHO/data).
+
 
