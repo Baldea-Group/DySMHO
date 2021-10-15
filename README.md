@@ -30,8 +30,8 @@ Download the DySMHO repository and ensure all dependencies and requirements abov
 git clone https://github.com/Baldea-Group/DySMHO
 ```
 
-## Demo 
+## Demo and instructions for use 
 
-Demonstrations for different dynamical systems are included in the [DySMHO/notebook](https://github.com/Baldea-Group/DySMHO/tree/main/DySMHO/notebook) directory. 
+Detailed demonstrations for different dynamical systems are included in the [DySMHO/notebook](https://github.com/Baldea-Group/DySMHO/tree/main/DySMHO/notebook) directory. The directory also includes scripts used to compare the perfromance of DySMHO agains prior works in the literature. 
 
-## Instructions for use 
+
