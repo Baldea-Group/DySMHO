@@ -36,4 +36,8 @@ Detailed demonstrations for different dynamical systems are included in the [DyS
 
 All the data generating scrips for the numerical case studies can be found in the [data directory](https://github.com/Baldea-Group/DySMHO/tree/main/DySMHO/data).
 
+All utilities and helper functions used in the main model, as well as the definition of the model class for 2D and 3D systems can be found in the [model directory](https://github.com/Baldea-Group/DySMHO/tree/main/DySMHO/model) 
+
+## License 
+
 
