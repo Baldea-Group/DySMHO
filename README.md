@@ -29,6 +29,7 @@ Download the DySMHO repository and ensure all dependencies and requirements abov
 ```
 git clone https://github.com/Baldea-Group/DySMHO
 ```
+Installation time should be under 10 seconds with a standard internet conection. Total file size is 22.1 MB. 
 
 ## Demo and instructions for use 
 
