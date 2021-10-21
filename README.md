@@ -42,9 +42,10 @@ The expected run times (in seconds) for selected numerical examples on a satndar
 
 | System      | Data generation (s) | Disovery (s) | 
 | ----------- | ----------- | ----------- |
-| Header      | Title       | Title       |
-| Paragraph   | Text        | Text        |
-
+| Lotka-Volterra  | 0.029       | 268.77       |
+| van der Pol   | 0.042        | 170.69        |
+| Brusselator   | 0.040        | 249.62        |
+| Lorenz   | 0.042        | 368.00        |
 
 The directory also includes scripts used to compare the perfromance of DySMHO agains prior works in the literature. 
 
