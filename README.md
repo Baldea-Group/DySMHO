@@ -37,6 +37,7 @@ Detailed demonstrations for different dynamical systems are included in the [DyS
 1. Data generation for dynamical systems examples
 2. DySMHO instance definition
 3. Application of DySMHO methods (smoothing, pre-processing, discovery, and validation)
+4. Expected outputs
 
 The expected run times (in seconds) for selected numerical examples on a satndard computer are given below: 
 
