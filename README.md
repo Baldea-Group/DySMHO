@@ -45,14 +45,12 @@ The expected run times (in seconds) for selected numerical examples on a satndar
 | Lotka-Volterra  | 0.029       | 268.77       |
 | van der Pol   | 0.042        | 170.69        |
 | Brusselator   | 0.040        | 249.62        |
-| Lorenz   | 0.042        | 368.00        |
-
-\\
+| Lorenz   | 0.042        | 368.00        |  
 
 
-All the data generating scrips for the numerical case studies can be found in the [data directory](https://github.com/Baldea-Group/DySMHO/tree/main/DySMHO/data). A plotting script used to display results can be found [here](https://github.com/Baldea-Group/DySMHO/blob/main/DySMHO/notebook/plotting.ipynb). All utilities and helper functions used in the main model, as well as the definition of the model class for 2D and 3D systems can be found in the [model directory](https://github.com/Baldea-Group/DySMHO/tree/main/DySMHO/model) 
 
-\\ 
+All the data generating scrips for the numerical case studies can be found in the [data directory](https://github.com/Baldea-Group/DySMHO/tree/main/DySMHO/data). A plotting script used to display results can be found [here](https://github.com/Baldea-Group/DySMHO/blob/main/DySMHO/notebook/plotting.ipynb). All utilities and helper functions used in the main model, as well as the definition of the model class for 2D and 3D systems can be found in the [model directory](https://github.com/Baldea-Group/DySMHO/tree/main/DySMHO/model).  
+
 
 The directory also includes [scripts](https://github.com/Baldea-Group/DySMHO/blob/main/DySMHO/notebook/examples_pysindy.ipynb) used to compare the perfromance of DySMHO against prior works in the literature, mainly different versions of [PySINDy](https://github.com/dynamicslab/pysindy)  
 
