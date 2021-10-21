@@ -33,7 +33,15 @@ Installation time should be under 10 seconds with a standard internet conection.
 
 ## Demo and instructions for use 
 
-Detailed demonstrations for different dynamical systems are included in the [DySMHO/notebook](https://github.com/Baldea-Group/DySMHO/tree/main/DySMHO/notebook) directory. The directory also includes scripts used to compare the perfromance of DySMHO agains prior works in the literature. 
+Detailed demonstrations for different dynamical systems are included in the [DySMHO/notebook](https://github.com/Baldea-Group/DySMHO/tree/main/DySMHO/notebook) directory. The notebooks explain in detail the following steps: (1) data generation for dynamical systems examples, (2) DySMHO instance definition, (3) application of DySMHO methods (smoothing, pre-processing, discovery, and validation). The expected run times (in seconds) for selected numerical examples on a satndard computer are given below: 
+
+| System      | Data generation (s) | Disovery (s) | 
+| ----------- | ----------- | ----------- |
+| Header      | Title       | Title       |
+| Paragraph   | Text        | Text        |
+
+
+The directory also includes scripts used to compare the perfromance of DySMHO agains prior works in the literature. 
 
 All the data generating scrips for the numerical case studies can be found in the [data directory](https://github.com/Baldea-Group/DySMHO/tree/main/DySMHO/data).
 
