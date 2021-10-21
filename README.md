@@ -33,7 +33,7 @@ Installation time should be under 10 seconds with a standard internet conection.
 
 ## Demo and instructions for use 
 
-Detailed demonstrations for different dynamical systems are included in the [DySMHO/notebook](https://github.com/Baldea-Group/DySMHO/tree/main/DySMHO/notebook) directory. The examples include the following equations [Lotka-Volterra](https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equations), [van der Pol](https://en.wikipedia.org/wiki/Van_der_Pol_oscillator), [Brusselator](https://en.wikipedia.org/wiki/Brusselator), and [Lorenz](https://en.wikipedia.org/wiki/Lorenz_system). The notebooks explain in detail the following steps: 
+Detailed demonstrations for different dynamical systems are included in the [DySMHO/notebook](https://github.com/Baldea-Group/DySMHO/tree/main/DySMHO/notebook) directory. The examples include the following equations [Lotka-Volterra](https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equations), [van der Pol](https://en.wikipedia.org/wiki/Van_der_Pol_oscillator), [Brusselator](https://en.wikipedia.org/wiki/Brusselator), and [Lorenz](https://en.wikipedia.org/wiki/Lorenz_system). The [notebooks](https://github.com/Baldea-Group/DySMHO/tree/main/DySMHO/notebook) demonstrate and explain in detail the following steps: 
 1. Data generation for dynamical systems examples
 2. DySMHO instance definition
 3. Application of DySMHO methods (smoothing, pre-processing, discovery, and validation). 
@@ -47,11 +47,17 @@ The expected run times (in seconds) for selected numerical examples on a satndar
 | Brusselator   | 0.040        | 249.62        |
 | Lorenz   | 0.042        | 368.00        |
 
-The directory also includes scripts used to compare the perfromance of DySMHO agains prior works in the literature. 
+\\
 
-All the data generating scrips for the numerical case studies can be found in the [data directory](https://github.com/Baldea-Group/DySMHO/tree/main/DySMHO/data).
 
-All utilities and helper functions used in the main model, as well as the definition of the model class for 2D and 3D systems can be found in the [model directory](https://github.com/Baldea-Group/DySMHO/tree/main/DySMHO/model) 
+All the data generating scrips for the numerical case studies can be found in the [data directory](https://github.com/Baldea-Group/DySMHO/tree/main/DySMHO/data). A plotting script used to display results can be found [here](https://github.com/Baldea-Group/DySMHO/blob/main/DySMHO/notebook/plotting.ipynb). All utilities and helper functions used in the main model, as well as the definition of the model class for 2D and 3D systems can be found in the [model directory](https://github.com/Baldea-Group/DySMHO/tree/main/DySMHO/model) 
+
+\\ 
+
+The directory also includes [scripts](https://github.com/Baldea-Group/DySMHO/blob/main/DySMHO/notebook/examples_pysindy.ipynb) used to compare the perfromance of DySMHO against prior works in the literature, mainly different versions of [PySINDy](https://github.com/dynamicslab/pysindy)  
+
+
+
 
 ## License 
 
