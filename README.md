@@ -56,7 +56,18 @@ All the data generating scrips for the numerical case studies can be found in th
 The directory also includes [scripts](https://github.com/Baldea-Group/DySMHO/blob/main/DySMHO/notebook/examples_pysindy.ipynb) used to compare the perfromance of DySMHO against prior works in the literature, mainly different versions of [PySINDy](https://github.com/dynamicslab/pysindy).  
 
 
+## Cite
 
+@article{lejarza2022data,
+  title={Data-driven discovery of the governing equations of dynamical systems via moving horizon optimization},
+  author={Lejarza, Fernando and Baldea, Michael},
+  journal={Scientific Reports},
+  volume={12},
+  number={1},
+  pages={1--15},
+  year={2022},
+  publisher={Springer}
+}
 
 ## License 
 
