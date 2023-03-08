@@ -58,6 +58,7 @@ The directory also includes [scripts](https://github.com/Baldea-Group/DySMHO/blo
 
 ## Cite
 
+```
 @article{lejarza2022data,
   title={Data-driven discovery of the governing equations of dynamical systems via moving horizon optimization},
   author={Lejarza, Fernando and Baldea, Michael},
@@ -68,7 +69,7 @@ The directory also includes [scripts](https://github.com/Baldea-Group/DySMHO/blo
   year={2022},
   publisher={Springer}
 }
-
+```
 ## License 
 
 **MIT License** 
